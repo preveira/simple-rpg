@@ -1,6 +1,6 @@
 # Dragon's Keep
 
-**Dragon's Keep'r** is a simple yet engaging RPG game where players embark on a quest to defeat a fearsome dragon threatening a town. Navigate through different locations, manage your resources, and battle various monsters to achieve victory.
+**Dragon's Keep** is a simple yet engaging RPG game where players embark on a quest to defeat a fearsome dragon threatening a town. Navigate through different locations, manage your resources, and battle various monsters to achieve victory.
 
 ## Table of Contents
 
